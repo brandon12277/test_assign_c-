@@ -1,0 +1,4 @@
+1. Implement a Singleton Class using C++. And prove that it is working fine.
+2. Write a single Sum function capable of handling an arbitrary number of integers. It should take two arguments and return an integer. (Do it recursively)
+3. Show the Shallow Copy and the Deep Copy concepts using the nested class concepts. E.g. Class X would have Class Y (Has-a relationship). Class Y could also be a stand-alone class. 
+4. Write a C++ code where a Parent class cannot be freed (destructor called) until the Child class instance is freed.
